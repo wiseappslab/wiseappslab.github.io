@@ -25,4 +25,9 @@ footer {
     footer {
         font-size: 14px; /* Adjust font size for smaller screens */
     }
+    .logo {
+        width: 80%; /* Adjust the width of the logo */
+        max-width: 200px; /* Set a maximum width for the logo */
+        margin: 20px auto; /* Center the logo with some top margin */
+    }
 }
