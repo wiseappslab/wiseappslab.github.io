@@ -1,0 +1,19 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Set the body height to full viewport height */
+    background-image: url('logo.png'); /* Set the background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
+footer {
+    background-color: #333; /* Choose a background color for the footer */
+    color: #fff; /* Choose a text color for the footer */
+    text-align: center;
+    padding: 10px;
+    position: fixed; /* Fix the footer at the bottom of the viewport */
+    width: 100%;
+    bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
